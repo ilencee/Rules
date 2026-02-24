@@ -8,8 +8,8 @@ host-suffix, aliyun.lilyemby.com, direct
 host-suffix, jp.lilyemby.com, direct
 
 # > okemby
-host-suffix, link00.okemby.org, direct, direct
-host-suffix, link01.okemby.org, direct, direct
+host-suffix, link00.okemby.org, direct
+host-suffix, link01.okemby.org, direct
 ## >反代
 host-suffix, okemby.wangjunqiang.indevs.in, direct
 host-suffix, okemby.wangjunqiang.dev, direct
