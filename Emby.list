@@ -46,7 +46,7 @@ host-suffix, 1.eoos.lol, direct
 
 # >emos
 ## >反代
-host-suffix, emos.ujmb.dpdns.org:2053, direct
+host-suffix, emos.ujmb.dpdns.org, direct
 host-suffix, emos.yu-wu.top, direct
 host-suffix, emos.200038.xyz , direct
 host-suffix, emos.dolby.dpdns.org, direct
