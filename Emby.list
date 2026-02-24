@@ -8,8 +8,13 @@ host-suffix, aliyun.lilyemby.com, direct
 host-suffix, jp.lilyemby.com, direct
 
 # > okemby
-host-suffix, link00.okemby.org, direct
-host-suffix, link01.okemby.org, direct
+host-suffix, link00.okemby.org, direct, direct
+host-suffix, link01.okemby.org, direct, direct
+host-suffix, https://okemby.wangjunqiang.indevs.in, direct
+host-suffix, https://okemby.wangjunqiang.dev, direct
+host-suffix, https://emby.enic65.eu.org/, direct
+host-suffix, https://okemby.798777.xyz , direct
+host-suffix, https://ok.1653.us.ci, direct
 
 
 # > UHD
@@ -38,11 +43,28 @@ host-suffix, hohai, direct
 # >eoos
 host-suffix, 1.eoos.lol, direct
 
-# >
-host-suffix, haitian, direct
-# >
-# >
-# >
-# >
-
-
+# >emos
+host-suffix, https://emos.ujmb.dpdns.org:2053, direct
+host-suffix, https://emos.yu-wu.top, direct
+host-suffix, https://emos.200038.xyz , direct
+host-suffix, https://emos.dolby.dpdns.org, direct
+host-suffix, https://emos6.dolby.dpdns.org, direct
+host-suffix, https://emos.biu.gv.uy, direct
+host-suffix, https://emos.wangjunqiang.indevs.in, direct
+host-suffix, https://emos.030518.xyz/, direct
+host-suffix,https://emos.saga8.dpdns.org/, direct
+host-suffix,https://emos.goldenarch.qzz.io, direct
+host-suffix,https://emos.cnmbyd.xyz, direct
+host-suffix, https://emos.137127.xyz, direct
+host-suffix, https://emos.dirige.de5.net, direct
+host-suffix, https://yd.dirige.de5.net, direct
+host-suffix, https://lt.dirige.de5.net, direct
+host-suffix, https://emos.660990.xyz, direct
+host-suffix, https://emosbest.indevs.in, direct
+host-suffix,https://emos.ujmb.dpdns.org, direct
+host-suffix,https://emos.12321.us.ci, direct
+host-suffix,https://emos.033388.xyz, proxy
+host-suffix,https://emos.255432.xyz, direct
+host-suffix,https://us.111196123.xyz, direct
+host-suffix,https://emos.030666.xyz, direct
+host-suffix,https://pro.111196123.xyz, proxy
