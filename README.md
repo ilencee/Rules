@@ -8,5 +8,5 @@
 
 
 
-https://raw.githubusercontent.com/ilencee/Rules/master/Emby.list
+https://raw.githubusercontent.com/ilencee/Rules/main/Emby.list
 
