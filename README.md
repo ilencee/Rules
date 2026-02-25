@@ -6,6 +6,8 @@
 
 \# QX填写
 
+```bash
+
 https://raw.githubusercontent.com/ilencee/Rules/main/Emby.list
 
 
