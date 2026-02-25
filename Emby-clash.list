@@ -14,7 +14,7 @@ payload:
 # emby - 反代
 - DOMAIN-SUFFIX,okemby.wangjunqiang.indevs.in,🎯 全球直连
 - DOMAIN-SUFFIX,okemby.wangjunqiang.dev,🎯 全球直连
-- DOMAIN-SUFFIX,emby.enic65.eu.org,🚀 节点选择
+#- DOMAIN-SUFFIX,emby.enic65.eu.org,🚀 节点选择
 - DOMAIN-SUFFIX,okemby.798777.xyz,🎯 全球直连
 - DOMAIN-SUFFIX,ok.1653.us.ci,🎯 全球直连
 
