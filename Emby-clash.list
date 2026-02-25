@@ -1,0 +1,72 @@
+# emby
+
+# > lily
+host-suffix, www.lilyemby.com,🎯 全球直连
+host-suffix, cdn.lilyemby.com,🎯 全球直连
+host-suffix, tx.lilyemby.com,🎯 全球直连
+host-suffix, aliyun.lilyemby.com,🎯 全球直连
+host-suffix, jp.lilyemby.com,🎯 全球直连
+
+# > okemby
+host-suffix, link00.okemby.org,🎯 全球直连
+host-suffix, link01.okemby.org,🎯 全球直连
+## >反代
+host-suffix, okemby.wangjunqiang.indevs.in,🎯 全球直连
+host-suffix, okemby.wangjunqiang.dev,🎯 全球直连
+host-suffix, emby.enic65.eu.org,🎯 全球直连
+host-suffix, okemby.798777.xyz ,🎯 全球直连
+host-suffix, ok.1653.us.ci,🎯 全球直连
+
+
+# > UHD
+host-suffix, v1.uhdnow.com,🎯 全球直连
+host-suffix, global.uhdnow.com,🎯 全球直连
+host-suffix, smart.uhdnow.com,🎯 全球直连
+host-suffix, smart2.uhdnow.com,🎯 全球直连
+host-suffix, mlc.once.im,🎯 全球直连
+host-suffix, cfbest.uhdgo.com,🎯 全球直连
+
+
+# > peach
+host-suffix, embymv.link,🎯 全球直连
+
+# > nya
+host-suffix, emby.bangumi.ca, proxy
+host-suffix, ap-cn01.emby.bangumi.ca,🎯 全球直连
+host-suffix, ap-cn02.emby.bangumi.ca,🎯 全球直连
+
+# > ciallo
+host-suffix, ciallo.party,🎯 全球直连
+
+# >hohai
+host-suffix, hohai,🎯 全球直连
+
+# >eoos
+host-suffix, 1.eoos.lol,🎯 全球直连
+
+# >emos
+## >反代
+host-suffix, emos.ujmb.dpdns.org,🎯 全球直连
+host-suffix, emos.yu-wu.top,🎯 全球直连
+host-suffix, emos.200038.xyz ,🎯 全球直连
+host-suffix, emos.dolby.dpdns.org,🎯 全球直连
+host-suffix, emos6.dolby.dpdns.org,🎯 全球直连
+host-suffix, emos.biu.gv.uy,🎯 全球直连
+host-suffix, emos.wangjunqiang.indevs.in,🎯 全球直连
+host-suffix, emos.030518.xyz,🎯 全球直连
+host-suffix,emos.saga8.dpdns.org,🎯 全球直连
+host-suffix,emos.goldenarch.qzz.io,🎯 全球直连
+host-suffix,emos.cnmbyd.xyz,🎯 全球直连
+host-suffix, emos.137127.xyz,🎯 全球直连
+host-suffix, emos.dirige.de5.net,🎯 全球直连
+host-suffix, yd.dirige.de5.net,🎯 全球直连
+host-suffix, lt.dirige.de5.net,🎯 全球直连
+host-suffix, emos.660990.xyz,🎯 全球直连
+host-suffix, emosbest.indevs.in,🎯 全球直连
+host-suffix, emos.ujmb.dpdns.org,🎯 全球直连
+host-suffix ,emos.12321.us.ci,🎯 全球直连
+host-suffix, emos.033388.xyz, proxy
+host-suffix, emos.255432.xyz,🎯 全球直连
+host-suffix, us.111196123.xyz,🎯 全球直连
+host-suffix, emos.030666.xyz,🎯 全球直连
+host-suffix, pro.111196123.xyz, proxy
