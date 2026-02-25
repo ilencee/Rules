@@ -15,7 +15,9 @@ https://raw.githubusercontent.com/ilencee/Rules/main/Emby.list
 <details>
 
 <summary>点击查看 Clash 脚本备注</summary>
+
 ```bash
+
 function main(config) {
 
 &nbsp; // 1. 定义 rule-providers
