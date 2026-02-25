@@ -6,9 +6,11 @@
 
 \# QX填写
 
-```bash
+```
 
 https://raw.githubusercontent.com/ilencee/Rules/main/Emby.list
+
+``` 
 
 
 
@@ -18,7 +20,7 @@ https://raw.githubusercontent.com/ilencee/Rules/main/Emby.list
 
 <summary>点击查看 Clash 脚本备注</summary>
 
-```bash
+```
 
 function main(config) {
 
@@ -90,3 +92,4 @@ function main(config) {
 
 }
 
+``` 
