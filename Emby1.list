@@ -1,72 +1,65 @@
-# emby
 payload:
-# > lily
-host-suffix, www.lilyemby.com, direct
-host-suffix, cdn.lilyemby.com, direct
-host-suffix, tx.lilyemby.com, direct
-host-suffix, aliyun.lilyemby.com, direct
-host-suffix, jp.lilyemby.com, direct
 
-# > okemby
-host-suffix, link00.okemby.org, direct
-host-suffix, link01.okemby.org, direct
-## >反代
-host-suffix, okemby.wangjunqiang.indevs.in, direct
-host-suffix, okemby.wangjunqiang.dev, direct
-host-suffix, emby.enic65.eu.org,🚀 节点选择
-host-suffix, okemby.798777.xyz , direct
-host-suffix, ok.1653.us.ci, direct
+# emby - lily
+- DOMAIN-SUFFIX,www.lilyemby.com,direct
+- DOMAIN-SUFFIX,cdn.lilyemby.com,direct
+- DOMAIN-SUFFIX,tx.lilyemby.com,direct
+- DOMAIN-SUFFIX,aliyun.lilyemby.com,direct
+- DOMAIN-SUFFIX,jp.lilyemby.com,direct
 
+# emby - okemby
+- DOMAIN-SUFFIX,link00.okemby.org,direct
+- DOMAIN-SUFFIX,link01.okemby.org,direct
 
-# > UHD
-host-suffix, v1.uhdnow.com, direct
-host-suffix, global.uhdnow.com, direct
-host-suffix, smart.uhdnow.com, direct
-host-suffix, smart2.uhdnow.com, direct
-host-suffix, mlc.once.im, direct
-host-suffix, cfbest.uhdgo.com, direct
+# emby - 反代
+- DOMAIN-SUFFIX,okemby.wangjunqiang.indevs.in,direct
+- DOMAIN-SUFFIX,okemby.wangjunqiang.dev,direct
+- DOMAIN-SUFFIX,emby.enic65.eu.org,🚀 节点选择
+- DOMAIN-SUFFIX,okemby.798777.xyz,direct
+- DOMAIN-SUFFIX,ok.1653.us.ci,direct
 
+# emby - UHD
+- DOMAIN-SUFFIX,v1.uhdnow.com,direct
+- DOMAIN-SUFFIX,global.uhdnow.com,direct
+- DOMAIN-SUFFIX,smart.uhdnow.com,direct
+- DOMAIN-SUFFIX,smart2.uhdnow.com,direct
+- DOMAIN-SUFFIX,mlc.once.im,direct
+- DOMAIN-SUFFIX,cfbest.uhdgo.com,direct
 
-# > peach
-host-suffix, embymv.link, direct
+# emby - peach
+- DOMAIN-SUFFIX,embymv.link,direct
 
-# > nya
-host-suffix, emby.bangumi.ca, proxy
-host-suffix, ap-cn01.emby.bangumi.ca, direct
-host-suffix, ap-cn02.emby.bangumi.ca, direct
+# emby - nya
+- DOMAIN-SUFFIX,emby.bangumi.ca,proxy
+- DOMAIN-SUFFIX,ap-cn01.emby.bangumi.ca,direct
+- DOMAIN-SUFFIX,ap-cn02.emby.bangumi.ca,direct
 
-# > ciallo
-host-suffix, ciallo.party, direct
+# emby - ciallo
+- DOMAIN-SUFFIX,ciallo.party,direct
 
-# >hohai
-host-suffix, hohai, direct
+# emby - hohai
+- DOMAIN-SUFFIX,hohai,direct
 
-# >eoos
-host-suffix, 1.eoos.lol, direct
+# emby - eoos
+- DOMAIN-SUFFIX,1.eoos.lol,direct
 
-# >emos
-## >反代
-host-suffix, emos.ujmb.dpdns.org, direct
-host-suffix, emos.yu-wu.top, direct
-host-suffix, emos.200038.xyz , direct
-host-suffix, emos.dolby.dpdns.org, direct
-host-suffix, emos6.dolby.dpdns.org, direct
-host-suffix, emos.biu.gv.uy, direct
-host-suffix, emos.wangjunqiang.indevs.in, direct
-host-suffix, emos.030518.xyz, direct
-host-suffix,emos.saga8.dpdns.org, direct
-host-suffix,emos.goldenarch.qzz.io, direct
-host-suffix,emos.cnmbyd.xyz, direct
-host-suffix, emos.137127.xyz, direct
-host-suffix, emos.dirige.de5.net, direct
-host-suffix, yd.dirige.de5.net, direct
-host-suffix, lt.dirige.de5.net, direct
-host-suffix, emos.660990.xyz, direct
-host-suffix, emosbest.indevs.in, direct
-host-suffix, emos.ujmb.dpdns.org, direct
-host-suffix ,emos.12321.us.ci, direct
-host-suffix, emos.033388.xyz, 🚀 节点选择
-host-suffix, emos.255432.xyz, direct
-host-suffix, us.111196123.xyz, direct
-host-suffix, emos.030666.xyz, direct
-host-suffix, pro.111196123.xyz, 🚀 节点选择
+# emby - emos 反代
+- DOMAIN-SUFFIX,emos.ujmb.dpdns.org,direct
+- DOMAIN-SUFFIX,emos.yu-wu.top,direct
+- DOMAIN-SUFFIX,emos.200038.xyz,direct
+- DOMAIN-SUFFIX,emos.dolby.dpdns.org,direct
+- DOMAIN-SUFFIX,emos6.dolby.dpdns.org,direct
+- DOMAIN-SUFFIX,emos.biu.gv.uy,direct
+- DOMAIN-SUFFIX,emos.wangjunqiang.indevs.in,direct
+- DOMAIN-SUFFIX,emos.030518.xyz,direct
+- DOMAIN-SUFFIX,emos.dirige.de5.net,direct
+- DOMAIN-SUFFIX,yd.dirige.de5.net,direct
+- DOMAIN-SUFFIX,lt.dirige.de5.net,direct
+- DOMAIN-SUFFIX,emos.660990.xyz,direct
+- DOMAIN-SUFFIX,emosbest.indevs.in,direct
+- DOMAIN-SUFFIX,emos.12321.us.ci,direct
+- DOMAIN-SUFFIX,emos.033388.xyz,proxy
+- DOMAIN-SUFFIX,emos.255432.xyz,direct
+- DOMAIN-SUFFIX,us.111196123.xyz,direct
+- DOMAIN-SUFFIX,emos.030666.xyz,direct
+- DOMAIN-SUFFIX,pro.111196123.xyz,proxy
