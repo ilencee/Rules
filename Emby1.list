@@ -30,7 +30,7 @@ payload:
 - DOMAIN-SUFFIX,embymv.link,direct
 
 # emby - nya
-- DOMAIN-SUFFIX,emby.bangumi.ca,proxy
+- DOMAIN-SUFFIX,emby.bangumi.ca,🚀 节点选择
 - DOMAIN-SUFFIX,ap-cn01.emby.bangumi.ca,direct
 - DOMAIN-SUFFIX,ap-cn02.emby.bangumi.ca,direct
 
@@ -58,8 +58,8 @@ payload:
 - DOMAIN-SUFFIX,emos.660990.xyz,direct
 - DOMAIN-SUFFIX,emosbest.indevs.in,direct
 - DOMAIN-SUFFIX,emos.12321.us.ci,direct
-- DOMAIN-SUFFIX,emos.033388.xyz,proxy
+- DOMAIN-SUFFIX,emos.033388.xyz,🚀 节点选择
 - DOMAIN-SUFFIX,emos.255432.xyz,direct
 - DOMAIN-SUFFIX,us.111196123.xyz,direct
 - DOMAIN-SUFFIX,emos.030666.xyz,direct
-- DOMAIN-SUFFIX,pro.111196123.xyz,proxy
+- DOMAIN-SUFFIX,pro.111196123.xyz,🚀 节点选择
