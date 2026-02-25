@@ -1,65 +1,65 @@
 payload:
 
 # emby - lily
-- DOMAIN-SUFFIX,www.lilyemby.com,🎯 全球直连
-- DOMAIN-SUFFIX,cdn.lilyemby.com,🎯 全球直连
-- DOMAIN-SUFFIX,tx.lilyemby.com,🎯 全球直连
-- DOMAIN-SUFFIX,aliyun.lilyemby.com,🎯 全球直连
-- DOMAIN-SUFFIX,jp.lilyemby.com,🎯 全球直连
+- DOMAIN-SUFFIX,www.lilyemby.com,DIRECT
+- DOMAIN-SUFFIX,cdn.lilyemby.com,DIRECT
+- DOMAIN-SUFFIX,tx.lilyemby.com,DIRECT
+- DOMAIN-SUFFIX,aliyun.lilyemby.com,DIRECT
+- DOMAIN-SUFFIX,jp.lilyemby.com,DIRECT
 
 # emby - okemby
-- DOMAIN-SUFFIX,link00.okemby.org,🎯 全球直连
-- DOMAIN-SUFFIX,link01.okemby.org,🎯 全球直连
+- DOMAIN-SUFFIX,link00.okemby.org,DIRECT
+- DOMAIN-SUFFIX,link01.okemby.org,DIRECT
 
 # emby - 反代
-- DOMAIN-SUFFIX,okemby.wangjunqiang.indevs.in,🎯 全球直连
-- DOMAIN-SUFFIX,okemby.wangjunqiang.dev,🎯 全球直连
-#- DOMAIN-SUFFIX,emby.enic65.eu.org,🚀 节点选择
-- DOMAIN-SUFFIX,okemby.798777.xyz,🎯 全球直连
-- DOMAIN-SUFFIX,ok.1653.us.ci,🎯 全球直连
+- DOMAIN-SUFFIX,okemby.wangjunqiang.indevs.in,DIRECT
+- DOMAIN-SUFFIX,okemby.wangjunqiang.dev,DIRECT
+- DOMAIN-SUFFIX,emby.enic65.eu.org,♻️ 自动选择
+- DOMAIN-SUFFIX,okemby.798777.xyz,DIRECT
+- DOMAIN-SUFFIX,ok.1653.us.ci,DIRECT
 
 # emby - UHD
-- DOMAIN-SUFFIX,v1.uhdnow.com,🎯 全球直连
-- DOMAIN-SUFFIX,global.uhdnow.com,🎯 全球直连
-- DOMAIN-SUFFIX,smart.uhdnow.com,🎯 全球直连
-- DOMAIN-SUFFIX,smart2.uhdnow.com,🎯 全球直连
-- DOMAIN-SUFFIX,mlc.once.im,🎯 全球直连
-- DOMAIN-SUFFIX,cfbest.uhdgo.com,🎯 全球直连
+- DOMAIN-SUFFIX,v1.uhdnow.com,DIRECT
+- DOMAIN-SUFFIX,global.uhdnow.com,DIRECT
+- DOMAIN-SUFFIX,smart.uhdnow.com,DIRECT
+- DOMAIN-SUFFIX,smart2.uhdnow.com,DIRECT
+- DOMAIN-SUFFIX,mlc.once.im,DIRECT
+- DOMAIN-SUFFIX,cfbest.uhdgo.com,DIRECT
 
 # emby - peach
-- DOMAIN-SUFFIX,embymv.link,🎯 全球直连
+- DOMAIN-SUFFIX,embymv.link,DIRECT
 
 # emby - nya
-- DOMAIN-SUFFIX,emby.bangumi.ca,proxy
-- DOMAIN-SUFFIX,ap-cn01.emby.bangumi.ca,🎯 全球直连
-- DOMAIN-SUFFIX,ap-cn02.emby.bangumi.ca,🎯 全球直连
+- DOMAIN-SUFFIX,emby.bangumi.ca,♻️ 自动选择
+- DOMAIN-SUFFIX,ap-cn01.emby.bangumi.ca,DIRECT
+- DOMAIN-SUFFIX,ap-cn02.emby.bangumi.ca,DIRECT
 
 # emby - ciallo
-- DOMAIN-SUFFIX,ciallo.party,🎯 全球直连
+- DOMAIN-SUFFIX,ciallo.party,DIRECT
 
 # emby - hohai
-- DOMAIN-SUFFIX,hohai,🎯 全球直连
+- DOMAIN-SUFFIX,hohai,DIRECT
 
 # emby - eoos
-- DOMAIN-SUFFIX,1.eoos.lol,🎯 全球直连
+- DOMAIN-SUFFIX,1.eoos.lol,DIRECT
 
 # emby - emos 反代
-- DOMAIN-SUFFIX,emos.ujmb.dpdns.org,🎯 全球直连
-- DOMAIN-SUFFIX,emos.yu-wu.top,🎯 全球直连
-- DOMAIN-SUFFIX,emos.200038.xyz,🎯 全球直连
-- DOMAIN-SUFFIX,emos.dolby.dpdns.org,🎯 全球直连
-- DOMAIN-SUFFIX,emos6.dolby.dpdns.org,🎯 全球直连
-- DOMAIN-SUFFIX,emos.biu.gv.uy,🎯 全球直连
-- DOMAIN-SUFFIX,emos.wangjunqiang.indevs.in,🎯 全球直连
-- DOMAIN-SUFFIX,emos.030518.xyz,🎯 全球直连
-- DOMAIN-SUFFIX,emos.dirige.de5.net,🎯 全球直连
-- DOMAIN-SUFFIX,yd.dirige.de5.net,🎯 全球直连
-- DOMAIN-SUFFIX,lt.dirige.de5.net,🎯 全球直连
-- DOMAIN-SUFFIX,emos.660990.xyz,🎯 全球直连
-- DOMAIN-SUFFIX,emosbest.indevs.in,🎯 全球直连
-- DOMAIN-SUFFIX,emos.12321.us.ci,🎯 全球直连
-- DOMAIN-SUFFIX,emos.033388.xyz,proxy
-- DOMAIN-SUFFIX,emos.255432.xyz,🎯 全球直连
-- DOMAIN-SUFFIX,us.111196123.xyz,🎯 全球直连
-- DOMAIN-SUFFIX,emos.030666.xyz,🎯 全球直连
-- DOMAIN-SUFFIX,pro.111196123.xyz,proxy
+- DOMAIN-SUFFIX,emos.ujmb.dpdns.org,DIRECT
+- DOMAIN-SUFFIX,emos.yu-wu.top,DIRECT
+- DOMAIN-SUFFIX,emos.200038.xyz,DIRECT
+- DOMAIN-SUFFIX,emos.dolby.dpdns.org,DIRECT
+- DOMAIN-SUFFIX,emos6.dolby.dpdns.org,DIRECT
+- DOMAIN-SUFFIX,emos.biu.gv.uy,DIRECT
+- DOMAIN-SUFFIX,emos.wangjunqiang.indevs.in,DIRECT
+- DOMAIN-SUFFIX,emos.030518.xyz,DIRECT
+- DOMAIN-SUFFIX,emos.dirige.de5.net,DIRECT
+- DOMAIN-SUFFIX,yd.dirige.de5.net,DIRECT
+- DOMAIN-SUFFIX,lt.dirige.de5.net,DIRECT
+- DOMAIN-SUFFIX,emos.660990.xyz,DIRECT
+- DOMAIN-SUFFIX,emosbest.indevs.in,DIRECT
+- DOMAIN-SUFFIX,emos.12321.us.ci,DIRECT
+- DOMAIN-SUFFIX,emos.033388.xyz,♻️ 自动选择
+- DOMAIN-SUFFIX,emos.255432.xyz,DIRECT
+- DOMAIN-SUFFIX,us.111196123.xyz,DIRECT
+- DOMAIN-SUFFIX,emos.030666.xyz,DIRECT
+- DOMAIN-SUFFIX,pro.111196123.xyz,♻️ 自动选择
