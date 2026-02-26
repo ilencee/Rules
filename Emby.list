@@ -1,3 +1,8 @@
+# TMDB
+host-suffix, themoviedb.org, proxy
+host-suffix, tmdb.org, proxy
+host-suffix, thetvdb.com, proxy
+
 # emby
 
 # > lily

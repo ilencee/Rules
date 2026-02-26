@@ -1,0 +1,8 @@
+# > 影视数据库
+host-suffix, themoviedb.org, proxy
+host-suffix, tmdb.org, proxy
+host-suffix, image.tmdb.org, proxy
+host-suffix, imdb.com, proxy
+host-suffix, thetvdb.com, proxy
+host-suffix, fanart.tv, proxy
+host-suffix, omdbapi.com, proxy
