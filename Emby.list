@@ -1,11 +1,6 @@
-# TMDB
-host-suffix, themoviedb.org, proxy
-host-suffix, tmdb.org, proxy
-host-suffix, thetvdb.com, proxy
-
 # emby
 
-# > lily
+# > lily （直连）
 host-suffix, www.lilyemby.com, direct
 host-suffix, cdn.lilyemby.com, direct
 host-suffix, tx.lilyemby.com, direct
@@ -13,8 +8,8 @@ host-suffix, aliyun.lilyemby.com, direct
 host-suffix, jp.lilyemby.com, direct
 
 # > okemby
-host-suffix, link00.okemby.org, direct
-host-suffix, link01.okemby.org, direct
+host-suffix, link00.okemby.org, proxy
+host-suffix, link01.okemby.org, proxy
 ## >反代
 host-suffix, okemby.wangjunqiang.indevs.in, direct
 host-suffix, okemby.wangjunqiang.dev, direct
@@ -32,8 +27,8 @@ host-suffix, mlc.once.im, direct
 host-suffix, cfbest.uhdgo.com, direct
 
 
-# > peach
-host-suffix, embymv.link, direct
+# > peach 
+host-suffix, embymv.link, proxy
 
 # > nya
 host-suffix, emby.bangumi.ca, proxy

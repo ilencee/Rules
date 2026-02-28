@@ -27,7 +27,7 @@ payload:
 - DOMAIN-SUFFIX,cfbest.uhdgo.com,DIRECT
 
 # emby - peach
-- DOMAIN-SUFFIX,embymv.link,DIRECT
+- DOMAIN-SUFFIX,embymv.link,♻️ 自动选择
 
 # emby - nya
 - DOMAIN-SUFFIX,emby.bangumi.ca,♻️ 自动选择
